@@ -1,0 +1,7 @@
+{
+  "name": "CompraDiaria - Lista Inteligente",
+  "description": "Un asistente de compras por voz potenciado por Gemini Live API. Creá listas, seguí tus gastos y marcá lo que compraste solo hablando.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
